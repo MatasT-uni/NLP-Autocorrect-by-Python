@@ -56,8 +56,8 @@ To run this project, you will need:
 
 1. **Clone the Repository**:
    ```bash
-   git clone [repository link]
-   cd [repository folder]
+   git clone https://github.com/MatasT-uni/NLP-Autocorrect-by-Python/tree/Project
+   cd NLP-Autocorrect-by-Python/tree/Project
    ```
 
 2. **Install Required Packages**:
